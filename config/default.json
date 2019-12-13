@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://tanphat9324:Toikhongbiet9324@webserver-api-bqo37.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecretjson"
+}
